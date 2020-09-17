@@ -1,0 +1,39 @@
+body,
+html {
+	width: 100%;
+	height: 100%;
+	font-family: 'Nunito', sans-serif;
+	background: url(https://images.pexels.com/photos/281260/pexels-photo-281260.jpeg?cs=srgb&dl=pexels-francesco-ungaro-281260.jpg&fm=jpg) no-repeat center center fixed; 
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+}
+
+h1{
+	font-size: 3rem;
+	color: #1d3557;
+}
+
+hr {
+	border-color: #1d3557;
+	border-width: 3px;
+	max-width: 65px;
+}
+
+img {
+    width: 5rem;
+    height: 5rem;
+    margin-bottom: 10px;
+
+}
+
+.buffer{
+	height: 5rem;
+}
+
+.social{
+    width: 3rem;
+    height: 3rem;
+    margin: 1rem;
+}
