@@ -1,4 +1,4 @@
-# ilern_manteinance
+# ilern_manteinance_view
 
 Només necessites els files de la carpeta static, els altres els pots borrar si vols.
 
