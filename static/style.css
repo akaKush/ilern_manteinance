@@ -38,11 +38,11 @@ img {
     margin: 1rem;
 }
 
-/*.text-center{
+.text-center{
 	height: 10em;
 	position: relative;
 	top: 50%;
 	left: 50%;
 	margin-right: -50%;
     transform: translate(-50%, -50%)
-}*/
+}
